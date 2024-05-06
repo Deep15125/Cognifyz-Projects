@@ -1,3 +1,4 @@
+# Author --> Deep Gupta
 def reverse(s):
     if len(s) == 0:
         print(s)
