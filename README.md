@@ -8,3 +8,5 @@ My Task 2 is Converter of Celsius to Fahrenheit and Fahrenheit to Celsius which 
 My Task 3 is to Check the Mail Validator which is built by Python.
 <br>
 My Task 4 is to Calculator Program which is built by Python.
+<br>
+My task 5 is to Palindrome Checker which is built by Python.
