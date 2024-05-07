@@ -1,3 +1,4 @@
+# Author --> Deep Gupta
 import random
 
 lower = int(input("Enter the Lower Bound:"))
