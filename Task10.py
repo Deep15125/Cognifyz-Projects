@@ -1,3 +1,4 @@
+#author --> Deep Gupta
 File = open("Task10.txt" , "r")
 
 d = dict()
